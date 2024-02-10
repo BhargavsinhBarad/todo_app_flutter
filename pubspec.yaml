@@ -39,6 +39,7 @@ dependencies:
   firebase_auth:
   get:
   http:
+  cloud_firestore:
 
 dev_dependencies:
   flutter_test:
